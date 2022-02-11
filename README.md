@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-Check the demo hosted on heroku https://simplest-react-todo-app.herokuapp.com/.\
+Check the demo hosted on heroku https://simplest-react-todo-app.herokuapp.com/.
+\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
